@@ -167,7 +167,7 @@ public class Lommeregner {
                         System.out.println("x_2 = " + x2);
                         System.out.println();
                         System.out.println();
-                        continue;
+
 
                     }
                 }
