@@ -177,8 +177,7 @@ public class Lommeregner {
             //man fortæller at variabletypen scanner med navn input processen er færdig, men kan ikke benyttes i et loop
             //input.close();
 
-
-
+            //lets go nemt
 
 
         }
