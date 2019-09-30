@@ -178,6 +178,7 @@ public class Lommeregner {
             //input.close();
 
             //lets go nemt
+            //commit coomit skeeeet
 
 
         }
